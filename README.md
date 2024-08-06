@@ -1,0 +1,1 @@
+multi-disease prediction model uses machine learning algorithms to simultaneously predict various diseases, enhancing diagnostic efficiency. Users input symptoms through a user-friendly interface, and the system analyzes this data against a diverse medical dataset to provide accurate predictions.
